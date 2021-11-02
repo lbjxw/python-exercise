@@ -1,2 +1,3 @@
 Lakers = ['James','Davis','Anthony']
-len(Lakers)
+n=len(Lakers)
+print(n)
